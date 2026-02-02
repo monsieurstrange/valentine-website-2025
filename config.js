@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K?si=569a4a6f8ea9469c", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dxblta8zf/video/upload/v1770047610/Tyler_Childers_-_All_Your_n_kg60n3.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
